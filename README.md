@@ -10,4 +10,4 @@ The process has 3 stages:
 
 ## Usage:
 Usage: ./<script_name> <usernames_file> <passwords_file> (This will be provided for hydra later)
-    echo "    Example: ./IoTScanner usernames.lst passwords.lst"
+Example: ./IoTScanner usernames.lst passwords.lst"
